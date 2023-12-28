@@ -121,7 +121,7 @@ class User extends Component {
         },
         {
           id: 12,
-          names: "Kim Ba Ba",
+          names: "Kim Ba Ba2",
           represent: "Công ty Việt H",
           account: "davao231",
           phone: "0376525222",
